@@ -1,8 +1,5 @@
-<br>
-<br>
-
 <h1 align="center">Hey there! 👋 My name is Chris </h1>
-<br>
+
 <h2 align="center">Frontend Developer</h2>
 
 <h3 align="center">Frontend Web Developer - I enjoy problem solving and a good challenge!</h3>
@@ -10,6 +7,7 @@
 <h3 align="center"> 🌍  I'm based in England</h3>
 
 <h3 align="center"> 📖  I'm currently learning Node.js & React</h3>
+
 <h3 align="center"> 👨‍💻  Always learning everything else!</h3>
 
 <h3 align="center"> 👏 Music - Coffee - T & Flannel-Shirt Collector</h3>
@@ -44,33 +42,17 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> 
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> 
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a> </p> 
+
+
+---
+
+
+<h3 align="center">My GitHub Stats</h3>
 <!-- <br> -->
 
-<!-- --- -->
-
+<div align="center"><a href="http://www.github.com/Chriscds"><img src="https://github-readme-stats.vercel.app/api?username=Chriscds&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Chriscds's GitHub stats" /></a></div>
 <!-- <br> -->
-
-
-<!-- <h3 align="center">My GitHub Stats</h3> -->
+<div align="center"><a href="http://www.github.com/Chriscds"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chriscds&theme=vue-dark&hide_border=false" /></a></div>
 <!-- <br> -->
+<div align="center"><a href="https://github.com/Chriscds" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscds&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" /></a></div>
 
-<!-- <div align="center"><a href="http://www.github.com/Chriscds"><img src="https://github-readme-stats.vercel.app/api?username=Chriscds&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Chriscds's GitHub stats" /></a></div> -->
-<!-- <br> -->
-<!-- <div align="center"><a href="http://www.github.com/Chriscds"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chriscds&theme=vue-dark&hide_border=false" /></a></div> -->
-<!-- <br> -->
-<!-- <div align="center"><a href="https://github.com/Chriscds" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscds&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" /></a></div> -->
-
-<!--
-**Chriscds/Chriscds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
