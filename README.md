@@ -13,6 +13,7 @@
 <h3 align="center"> 👏 Music - Coffee - T & Flannel-Shirt Collector</h3>
 <br>
 
+<h2 align="center">Contact Me @</h2>
 <p align="center">
 <a href="mailto:csouthon44@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></p>
 
@@ -20,9 +21,6 @@
 <a href="https://www.github.com/Chriscds" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /> </a> 
 <a href="https://www.linkedin.com/in/chris-southon-frontend-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a>
 </p>
-<br>
-
----
 
 <br>
 <h3 align="center">Languages, Frameworks & Tools </h3>
@@ -43,16 +41,11 @@
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> 
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a> </p> 
 
-
----
-
-
 <h3 align="center">My GitHub Stats</h3>
-<!-- <br> -->
+<br>
 
 <div align="center"><a href="http://www.github.com/Chriscds"><img src="https://github-readme-stats.vercel.app/api?username=Chriscds&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Chriscds's GitHub stats" /></a></div>
 <!-- <br> -->
 <div align="center"><a href="http://www.github.com/Chriscds"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chriscds&theme=vue-dark&hide_border=false" /></a></div>
 <!-- <br> -->
 <div align="center"><a href="https://github.com/Chriscds" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscds&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" /></a></div>
-
