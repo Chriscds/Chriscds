@@ -5,30 +5,15 @@
 <h3 align="center"> 👏 <em>'I enjoy problem solving & a good challenge,</em></h3>
 
 <h3 align="center"><em>Music - Coffee - Flannel Shirt's - Formula 1'</em> 👏 </h3>
-<br>
+
 <h3 align="center"> 🌍  Based in England,</h3>
 
 <h3 align="center"> 👨‍💻  Currently, I'm working on Node.js & React projects.</h3>
 
 <h3 align="center"> 🧠  Always learning!</h3>
-
-<br>
-
-<h2 align="center"><u>Contact Me @</u></h2>
-<br>
-<p align="center">
-<a href="mailto:csouthon44@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a></p>
-
-<p align="center">
-<a href="https://www.github.com/Chriscds" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /> </a> </p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/chris-southon-frontend-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a></p>
-
 <br>
 <h2 align="center"><u>Languages, Frameworks & Tools</u></h2>
 <br>
-
 <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> 
@@ -45,6 +30,11 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> 
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> 
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a></p> 
+<br>
+<h2 align="center"><u>Contact Me @</u></h2>
+<br>
+<p align="center">
+<a href="https://www.github.com/Chriscds" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" /></a> <a href="mailto:csouthon44@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/chris-southon-frontend-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a></p>
 <br>
 <h2 align="center"><u>My GitHub Stats</u></h2>
 <br>
