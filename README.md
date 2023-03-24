@@ -38,8 +38,8 @@
 <br>
 <h2 align="center"><u>My GitHub Stats</u></h2>
 <br>
-<div align="center"><a href="https://github.com/Chriscds" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscds&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" /></a></div>
+<!-- <div align="center"><a href="https://github.com/Chriscds" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscds&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" /></a></div>
 <br>
-<div align="center"><a href="http://www.github.com/Chriscds"><img src="https://github-readme-stats.vercel.app/api?username=Chriscds&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Chriscds's GitHub stats" /></a></div>
+<div align="center"><a href="http://www.github.com/Chriscds"><img src="https://github-readme-stats.vercel.app/api?username=Chriscds&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Chriscds's GitHub stats" /></a></div> -->
 <br>
 <div align="center"><a href="http://www.github.com/Chriscds"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chriscds&theme=vue-dark&hide_border=false" /></a></div>
