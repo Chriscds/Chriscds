@@ -8,7 +8,7 @@
 
 <h3 align="center"> 🌍  Based in England,</h3>
 
-<h3 align="center"> 👨‍💻  Currently, I'm working on Node.js & React projects.</h3>
+<h3 align="center"> 👨‍💻  Currently, I'm working on Vue & Next projects.</h3>
 
 <h3 align="center"> 🧠  Always learning!</h3>
 <br>
